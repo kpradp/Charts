@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-10-12T10:29:14.250Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36 Edg/94.0.992.38" etag="8XaGKeuJKZmHh2R-lkmF" version="15.5.0" type="github">
-  <diagram id="DriyPhUH9ZTsDFJ2cPIM" name="Page-1">
-    <mxGraphModel dx="1186" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2021-10-12T11:07:12.754Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36 Edg/94.0.992.38" etag="A9Y0Fxo_VKZjxnZr6s_Q" version="15.5.0" type="github" pages="2">
+  <diagram id="DriyPhUH9ZTsDFJ2cPIM" name="Entry">
+    <mxGraphModel dx="1395" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Ii3UxB4bIHffgU6JZ6K7-45" value="" style="group;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="620" y="450" width="130" height="170" as="geometry" />
+          <mxGeometry x="630" y="450" width="130" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Ii3UxB4bIHffgU6JZ6K7-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Ii3UxB4bIHffgU6JZ6K7-45">
           <mxGeometry width="130" height="170" as="geometry" />
@@ -42,6 +42,11 @@
         </mxCell>
         <mxCell id="Ii3UxB4bIHffgU6JZ6K7-39" value="Select Incubator" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Ii3UxB4bIHffgU6JZ6K7-45">
           <mxGeometry x="12.5" y="140" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ii3UxB4bIHffgU6JZ6K7-101" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="Ii3UxB4bIHffgU6JZ6K7-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="540" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Ii3UxB4bIHffgU6JZ6K7-46" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="310" y="480" width="120" height="120" as="geometry" />
@@ -105,7 +110,7 @@
           <mxGeometry x="120" y="180" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ii3UxB4bIHffgU6JZ6K7-81" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="380" y="180" width="110" height="135" as="geometry" />
+          <mxGeometry x="350" y="180" width="110" height="135" as="geometry" />
         </mxCell>
         <mxCell id="Ii3UxB4bIHffgU6JZ6K7-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Ii3UxB4bIHffgU6JZ6K7-81">
           <mxGeometry width="110" height="135" as="geometry" />
@@ -143,6 +148,9 @@
         <mxCell id="Ii3UxB4bIHffgU6JZ6K7-60" value="Loop" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="Ii3UxB4bIHffgU6JZ6K7-68">
           <mxGeometry x="150" y="95" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="i7xvwRO8eASS02k78GUM-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/download-128.png;fontSize=10;" vertex="1" parent="Ii3UxB4bIHffgU6JZ6K7-68">
+          <mxGeometry x="149" y="60" width="45" height="45" as="geometry" />
+        </mxCell>
         <mxCell id="Ii3UxB4bIHffgU6JZ6K7-80" value="" style="group" vertex="1" connectable="0" parent="Ii3UxB4bIHffgU6JZ6K7-87">
           <mxGeometry x="170" y="250" width="340" height="220" as="geometry" />
         </mxCell>
@@ -171,13 +179,19 @@
           <mxGeometry as="geometry" />
         </mxCell>
         <mxCell id="Ii3UxB4bIHffgU6JZ6K7-76" value="Loop" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;container=0;" vertex="1" parent="Ii3UxB4bIHffgU6JZ6K7-80">
-          <mxGeometry x="145" y="105" width="50" height="30" as="geometry" />
+          <mxGeometry x="145" y="125" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i7xvwRO8eASS02k78GUM-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/evil-icons-user-interface/64/download-128.png;fontSize=10;" vertex="1" parent="Ii3UxB4bIHffgU6JZ6K7-80">
+          <mxGeometry x="142.5" y="80" width="45" height="45" as="geometry" />
         </mxCell>
         <mxCell id="Ii3UxB4bIHffgU6JZ6K7-83" value="Game Play" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Ii3UxB4bIHffgU6JZ6K7-87">
           <mxGeometry y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ii3UxB4bIHffgU6JZ6K7-84" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontSize=17;" vertex="1" parent="Ii3UxB4bIHffgU6JZ6K7-87">
           <mxGeometry x="120" y="110" width="50" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="Ii3UxB4bIHffgU6JZ6K7-104" value="Main Gameplay consists of&amp;nbsp;&lt;br&gt;2 loops for fair challenge and&amp;nbsp;&lt;br&gt;engagement" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="Ii3UxB4bIHffgU6JZ6K7-87">
+          <mxGeometry x="50" y="5" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Ii3UxB4bIHffgU6JZ6K7-88" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="640" y="180" width="110" height="140" as="geometry" />
@@ -194,6 +208,46 @@
         <mxCell id="Ii3UxB4bIHffgU6JZ6K7-15" value="Customize&lt;br&gt;&amp;nbsp;Avatar" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Ii3UxB4bIHffgU6JZ6K7-88">
           <mxGeometry x="23.334444444444443" y="100" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Ii3UxB4bIHffgU6JZ6K7-91" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.37;exitDx=0;exitDy=0;fontSize=17;exitPerimeter=0;" edge="1" parent="1" source="Ii3UxB4bIHffgU6JZ6K7-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="240" as="sourcePoint" />
+            <mxPoint x="630" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ii3UxB4bIHffgU6JZ6K7-94" value="Avatar customization&lt;br style=&quot;font-size: 10px;&quot;&gt;includes customizing&amp;nbsp;&lt;br style=&quot;font-size: 10px;&quot;&gt;hair, eye color, skin,&lt;br style=&quot;font-size: 10px;&quot;&gt;accessories etc" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="490" y="240" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ii3UxB4bIHffgU6JZ6K7-95" value="Player can select or&amp;nbsp;&lt;br&gt;create player Avatar" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="240" y="250" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ii3UxB4bIHffgU6JZ6K7-96" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="Ii3UxB4bIHffgU6JZ6K7-12" target="Ii3UxB4bIHffgU6JZ6K7-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ii3UxB4bIHffgU6JZ6K7-97" value="Player is presented with&lt;br&gt;&amp;nbsp;3 incubarors&lt;br&gt;&lt;div&gt;&lt;span&gt;out of which 1 is free of cost&amp;nbsp;&lt;/span&gt;&lt;/div&gt;to start with" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="550" y="350" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Ii3UxB4bIHffgU6JZ6K7-98" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=10;" edge="1" parent="1" source="Ii3UxB4bIHffgU6JZ6K7-26" target="Ii3UxB4bIHffgU6JZ6K7-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ii3UxB4bIHffgU6JZ6K7-99" value="Player can select the &lt;br&gt;type of monkey" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="470" y="510" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ii3UxB4bIHffgU6JZ6K7-102" value="Game starts with the tutorial&lt;br&gt;explaining the features, controls&lt;br&gt;of the game" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="140" y="490" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ii3UxB4bIHffgU6JZ6K7-103" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="Ii3UxB4bIHffgU6JZ6K7-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="85" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Fl063gixsp7uE5KSEf_h" name="website flow">
+    <mxGraphModel dx="1186" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="3Th-tJhUP-Ww9ppLAhHM-0" />
+        <mxCell id="3Th-tJhUP-Ww9ppLAhHM-1" parent="3Th-tJhUP-Ww9ppLAhHM-0" />
       </root>
     </mxGraphModel>
   </diagram>

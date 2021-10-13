@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-13T06:26:00.659Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36 Edg/94.0.992.38" etag="9D2nLxKKhOe1LY0Xxz2t" version="15.5.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-10-13T06:29:22.831Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36 Edg/94.0.992.38" etag="CXeXQZNYr7uFG3HId1Jj" version="15.5.1" type="github" pages="4">
   <diagram id="DriyPhUH9ZTsDFJ2cPIM" name="Entry">
     <mxGraphModel dx="1186" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -284,6 +284,9 @@
         <mxCell id="yJlOBOObBD5TvbGMHVRe-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.054;entryY=0.583;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=10;" parent="MrMRbSBgBREXvEA-m0OO-1" source="Ii3UxB4bIHffgU6JZ6K7-59" target="yJlOBOObBD5TvbGMHVRe-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="IxhM7jCtarZBI8lplYI_-1" value="&lt;font style=&quot;font-size: 45px&quot;&gt;GAME FLOW&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=45;" vertex="1" parent="1">
+          <mxGeometry x="255" y="50" width="290" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -464,11 +467,14 @@
         <mxCell id="96ff5rYmxKAkS5c09N81-14" value="Sign up/Login" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="c7teDbf75l5j_XUqgy6P-0" vertex="1">
           <mxGeometry x="585" y="15" width="90" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="3phppuQuGKTeHSwsd7-c-0" value="&lt;font style=&quot;font-size: 45px&quot;&gt;WEBSITE&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=45;" vertex="1" parent="3Th-tJhUP-Ww9ppLAhHM-1">
+          <mxGeometry x="299" y="60" width="230" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="WSBV4cX2J232wq94UkId" name="multiplayer">
-    <mxGraphModel dx="1186" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1395" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="w9Ujh0Q_br-NOlunxePu-0" />
         <mxCell id="w9Ujh0Q_br-NOlunxePu-1" parent="w9Ujh0Q_br-NOlunxePu-0" />
@@ -788,6 +794,9 @@
         <mxCell id="JIF56haKkbcg-8mSRClE-16" value="Player &lt;br&gt;Database" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="7UV1V27iRON5v67peMv6-0" vertex="1">
           <mxGeometry x="659.2" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="UD5tyLb4-mxsgYYIhgdW-0" value="&lt;font style=&quot;font-size: 45px;&quot;&gt;MULTIPLAYER&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=45;" vertex="1" parent="w9Ujh0Q_br-NOlunxePu-1">
+          <mxGeometry x="240" y="60" width="320" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -924,6 +933,9 @@
         </mxCell>
         <mxCell id="iiV0Ju30w2Dp_8AMZjiJ-0" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/24x24-free-pixel-icons/24/Coins.png;fontSize=8;" vertex="1" parent="_jdHlO7FLR0BJ4049zPd-0">
           <mxGeometry x="281" y="390" width="24" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="_L4jGrgwEiLMEzI2aNxG-0" value="&lt;font style=&quot;font-size: 45px&quot;&gt;NFT&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=45;" vertex="1" parent="ZGOKtPBbIajAOG-arBqD-1">
+          <mxGeometry x="364" y="50" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

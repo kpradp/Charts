@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-23T04:43:39.247Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.57" etag="fiSZGbHx-EJIjilrTm7_" version="16.0.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-12-23T04:46:18.457Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.57" etag="o4jPF-mUdKcsriUr48E8" version="16.0.3" type="github" pages="7">
   <diagram id="DriyPhUH9ZTsDFJ2cPIM" name="Entry">
     <mxGraphModel dx="1186" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1519,7 +1519,7 @@
         <mxCell id="RLjNlOsiKOWII5e3d7Aa-0" />
         <mxCell id="RLjNlOsiKOWII5e3d7Aa-1" parent="RLjNlOsiKOWII5e3d7Aa-0" />
         <mxCell id="MS0bUK6HDq5kk267X9CD-0" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.rrect;rSize=0;strokeColor=#999999;fillColor=#ffffff;fontSize=10;" vertex="1" parent="RLjNlOsiKOWII5e3d7Aa-1">
-          <mxGeometry x="270" y="640" width="180" height="215" as="geometry" />
+          <mxGeometry x="20" y="800" width="180" height="215" as="geometry" />
         </mxCell>
         <mxCell id="MS0bUK6HDq5kk267X9CD-1" value="Sign In" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.anchor;fontSize=12;fontColor=#666666;align=left;resizeWidth=1;spacingLeft=0;" vertex="1" parent="MS0bUK6HDq5kk267X9CD-0">
           <mxGeometry width="90" height="20" relative="1" as="geometry">
@@ -1552,7 +1552,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MS0bUK6HDq5kk267X9CD-7" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.role_group;fontSize=12;" vertex="1" parent="RLjNlOsiKOWII5e3d7Aa-1">
-          <mxGeometry x="59.57" y="710" width="59" height="56" as="geometry" />
+          <mxGeometry x="45" y="480" width="59" height="56" as="geometry" />
         </mxCell>
         <mxCell id="MS0bUK6HDq5kk267X9CD-8" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_server.svg;fontSize=10;" vertex="1" parent="RLjNlOsiKOWII5e3d7Aa-1">
           <mxGeometry x="30.800000000000068" y="566" width="49.199999999999996" height="59.99999999999999" as="geometry" />
@@ -1613,6 +1613,51 @@
         </mxCell>
         <mxCell id="QG-zw36GsMEywXtUktmB-1" value="Secure&amp;nbsp;&lt;br&gt;Conection" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="RLjNlOsiKOWII5e3d7Aa-1">
           <mxGeometry x="320" y="390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QG-zw36GsMEywXtUktmB-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/business-and-education-1/512/142_VR_googles_headset_reality_virtual_technology_smart-128.png;fontSize=9;" vertex="1" parent="RLjNlOsiKOWII5e3d7Aa-1">
+          <mxGeometry x="64.07" y="680" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QG-zw36GsMEywXtUktmB-7" value="" style="group" vertex="1" connectable="0" parent="RLjNlOsiKOWII5e3d7Aa-1">
+          <mxGeometry x="167.52" y="680" width="102.48" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QG-zw36GsMEywXtUktmB-8" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.window;" vertex="1" parent="QG-zw36GsMEywXtUktmB-7">
+          <mxGeometry width="102.48" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QG-zw36GsMEywXtUktmB-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/vivid/48/vr-128.png" vertex="1" parent="QG-zw36GsMEywXtUktmB-7">
+          <mxGeometry x="28.181400701754388" y="16.153846153846153" width="42.043076923076924" height="42.043076923076924" as="geometry" />
+        </mxCell>
+        <mxCell id="QG-zw36GsMEywXtUktmB-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/business-and-education-1/512/142_VR_googles_headset_reality_virtual_technology_smart-128.png;fontSize=9;flipH=1;" vertex="1" parent="RLjNlOsiKOWII5e3d7Aa-1">
+          <mxGeometry x="690" y="680" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QG-zw36GsMEywXtUktmB-11" value="" style="group" vertex="1" connectable="0" parent="RLjNlOsiKOWII5e3d7Aa-1">
+          <mxGeometry x="540" y="680" width="102.48" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QG-zw36GsMEywXtUktmB-12" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.window;" vertex="1" parent="QG-zw36GsMEywXtUktmB-11">
+          <mxGeometry width="102.48" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QG-zw36GsMEywXtUktmB-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/vivid/48/vr-128.png" vertex="1" parent="QG-zw36GsMEywXtUktmB-11">
+          <mxGeometry x="28.181400701754388" y="16.153846153846153" width="42.043076923076924" height="42.043076923076924" as="geometry" />
+        </mxCell>
+        <mxCell id="QG-zw36GsMEywXtUktmB-16" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=9;exitX=0.311;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="RLjNlOsiKOWII5e3d7Aa-1" source="RSvXOJoW8VA5QjuPeGfm-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="400" as="sourcePoint" />
+            <mxPoint x="220" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QG-zw36GsMEywXtUktmB-17" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=9;" edge="1" parent="RLjNlOsiKOWII5e3d7Aa-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="480" as="sourcePoint" />
+            <mxPoint x="410" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QG-zw36GsMEywXtUktmB-18" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=9;exitX=0.697;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="RLjNlOsiKOWII5e3d7Aa-1" source="RSvXOJoW8VA5QjuPeGfm-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="749.99947" y="490" as="sourcePoint" />
+            <mxPoint x="587" y="350" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

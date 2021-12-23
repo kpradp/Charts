@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-23T05:08:38.212Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.57" etag="ilgHvJhvuFUp_L-8DCZe" version="16.0.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-12-23T05:09:58.299Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.57" etag="KgBluqi9K73cBPSUEGf1" version="16.0.3" type="github" pages="7">
   <diagram id="DriyPhUH9ZTsDFJ2cPIM" name="Entry">
     <mxGraphModel dx="1186" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1733,6 +1733,37 @@
         </mxCell>
         <mxCell id="j7PNqKsLVEvCfoU04yTr-29" value="All System will have one VR application installed.&lt;br&gt;One of the system will act as a server hosting the Database.&lt;br&gt;Connection made to Database are secured.&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="RLjNlOsiKOWII5e3d7Aa-1">
           <mxGeometry x="470" y="870" width="340" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="keUQU2_sTlfEnNRCFPly-8" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#6c8ebf;html=1;whiteSpace=wrap;fillColor=#dae8fc;" vertex="1" parent="RLjNlOsiKOWII5e3d7Aa-1">
+          <mxGeometry x="150" y="920" width="130" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="keUQU2_sTlfEnNRCFPly-9" value="Login&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="keUQU2_sTlfEnNRCFPly-8">
+          <mxGeometry width="130" height="30" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="keUQU2_sTlfEnNRCFPly-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.503;entryY=-0.15;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=8;" edge="1" parent="keUQU2_sTlfEnNRCFPly-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="28.888888888888886" y="160" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="keUQU2_sTlfEnNRCFPly-12" value="Select Scenario" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="keUQU2_sTlfEnNRCFPly-8">
+          <mxGeometry width="130" height="30" relative="1" as="geometry">
+            <mxPoint y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="keUQU2_sTlfEnNRCFPly-13" value="Play Scenario" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="keUQU2_sTlfEnNRCFPly-8">
+          <mxGeometry width="130" height="30" relative="1" as="geometry">
+            <mxPoint y="60" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="keUQU2_sTlfEnNRCFPly-14" value="Complete - Success" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;" vertex="1" parent="keUQU2_sTlfEnNRCFPly-8">
+          <mxGeometry width="130" height="30" relative="1" as="geometry">
+            <mxPoint y="90" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="keUQU2_sTlfEnNRCFPly-15" value="Failed" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;" vertex="1" parent="keUQU2_sTlfEnNRCFPly-8">
+          <mxGeometry y="1" width="130" height="30" relative="1" as="geometry">
+            <mxPoint y="-30" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

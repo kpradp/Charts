@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-23T05:21:55.812Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.57" etag="DFOyEVnjU6co2Ugl2POi" version="16.0.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-12-23T05:27:15.357Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36 Edg/96.0.1054.57" etag="FGlfoZGstwCt2U3OBYWm" version="16.0.3" type="github" pages="7">
   <diagram id="DriyPhUH9ZTsDFJ2cPIM" name="Entry">
     <mxGraphModel dx="1186" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1613,7 +1613,7 @@
         </mxCell>
         <mxCell id="QG-zw36GsMEywXtUktmB-18" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=9;" edge="1" parent="RLjNlOsiKOWII5e3d7Aa-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="405.93" y="590" as="sourcePoint" />
+            <mxPoint x="420" y="580" as="sourcePoint" />
             <mxPoint x="562.93" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -1660,13 +1660,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QG-zw36GsMEywXtUktmB-27" value="" style="group" vertex="1" connectable="0" parent="RLjNlOsiKOWII5e3d7Aa-1">
-          <mxGeometry x="354" y="539.9954545454545" width="59.99999999999997" height="70.81454545454551" as="geometry" />
+          <mxGeometry x="354" y="539.9954545454545" width="85" height="70.81454545454551" as="geometry" />
         </mxCell>
         <mxCell id="QG-zw36GsMEywXtUktmB-0" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/internet-security-flat-2/32/Internet_Security_Browser_shield_website_web_safe-128.png;fontSize=10;" vertex="1" parent="QG-zw36GsMEywXtUktmB-27">
           <mxGeometry x="9.590000000000003" width="40.816326530612244" height="40.816326530612244" as="geometry" />
         </mxCell>
-        <mxCell id="QG-zw36GsMEywXtUktmB-1" value="Secure&amp;nbsp;&lt;br&gt;Conection" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="QG-zw36GsMEywXtUktmB-27">
-          <mxGeometry y="40.81454545454551" width="60" height="30" as="geometry" />
+        <mxCell id="QG-zw36GsMEywXtUktmB-1" value="Connects using&lt;br&gt;Username, Password" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="QG-zw36GsMEywXtUktmB-27">
+          <mxGeometry x="-25" y="40.81454545454551" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QG-zw36GsMEywXtUktmB-41" value="User logs in by the given credentials&amp;nbsp;&lt;br style=&quot;font-size: 12px&quot;&gt;given by the admin" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="RLjNlOsiKOWII5e3d7Aa-1">
           <mxGeometry x="420.93" y="255" width="210" height="30" as="geometry" />

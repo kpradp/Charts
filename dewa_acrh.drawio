@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-12T15:04:15.623Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36 Edg/98.0.1108.43" etag="dVnDnrp4axGOU7z7NQ6g" version="16.5.6" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-02-12T15:04:36.232Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36 Edg/98.0.1108.43" etag="t67BhpBMN83uHN-RQV83" version="16.5.6" type="github" pages="11">
   <diagram id="DriyPhUH9ZTsDFJ2cPIM" name="Entry">
     <mxGraphModel dx="2062" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2318,23 +2318,8 @@
         <mxCell id="zJTHXiKn7zniZslR7GUP-0" value="Web Server" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="GPauH88modnCG4iPsyC7-1" vertex="1">
           <mxGeometry x="520.69" y="940" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4TQcUFLq8-ZSWp9GBaf1-0" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/windows_server.svg;" parent="GPauH88modnCG4iPsyC7-1" vertex="1">
-          <mxGeometry x="335.3" y="650" width="64.78" height="79" as="geometry" />
-        </mxCell>
-        <mxCell id="4TQcUFLq8-ZSWp9GBaf1-1" value="Dedicated Server&lt;br&gt;for the Application" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="GPauH88modnCG4iPsyC7-1" vertex="1">
-          <mxGeometry x="322.5" y="740" width="110" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="zc7414IRtTJWpEGWV0tr-2" value="Sql/Oracle/Mango DB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="GPauH88modnCG4iPsyC7-1" vertex="1">
           <mxGeometry x="695" y="960" width="130" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="pJsd8aVvoWbbRAAfCKrT-0" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="GPauH88modnCG4iPsyC7-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="411" y="710" as="sourcePoint" />
-            <mxPoint x="540" y="630" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pJsd8aVvoWbbRAAfCKrT-1" value="An Server instance is Created for the Training&amp;nbsp;&lt;br&gt;based on the number user. Server is Auto Scalable" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="GPauH88modnCG4iPsyC7-1" vertex="1">
-          <mxGeometry x="250.69" y="790" width="290" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

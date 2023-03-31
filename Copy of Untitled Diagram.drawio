@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-31T05:32:22.887Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.41" etag="CqxHrmb3k6aCBpPNUvzT" version="21.0.10" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-31T05:37:33.719Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.41" etag="sstfddgU_g_S9z_g8OtM" version="21.0.10" type="github" pages="2">
   <diagram id="qUJ034iTKjnf0Bsjd5q8" name="Page-2">
     <mxGraphModel dx="2017" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -337,9 +337,6 @@
         <mxCell id="VBBiEQMWZrXmdsKQ7NY6-1" value="" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;verticalAlign=top;fillColor=#3B8DF1;shape=mxgraph.gcp2.website" vertex="1" parent="1">
           <mxGeometry x="148.14" y="330" width="61.86" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VBBiEQMWZrXmdsKQ7NY6-2" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/sql_server.svg;" vertex="1" parent="1">
-          <mxGeometry x="370" y="305" width="53.9" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="VBBiEQMWZrXmdsKQ7NY6-3" value="Website Connects to the server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="134.07" y="410" width="90" height="30" as="geometry" />
         </mxCell>
@@ -387,6 +384,12 @@
         </mxCell>
         <mxCell id="6o3PL8QkLf9-1JZWyNTG-10" value="Moderator UI Work Flow" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="315" y="180" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6o3PL8QkLf9-1JZWyNTG-11" value="Clients are the Omniverse app or extension" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="464" y="570" width="286" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6o3PL8QkLf9-1JZWyNTG-12" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="370.7" y="310" width="36.4" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

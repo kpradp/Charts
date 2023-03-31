@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-31T05:37:33.719Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.41" etag="sstfddgU_g_S9z_g8OtM" version="21.0.10" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-31T05:39:22.758Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.41" etag="YDWzYx8mAltcYCOgjTnp" version="21.0.10" type="github" pages="2">
   <diagram id="qUJ034iTKjnf0Bsjd5q8" name="Page-2">
     <mxGraphModel dx="2017" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -349,8 +349,8 @@
         <mxCell id="VBBiEQMWZrXmdsKQ7NY6-5" value="Website send message to the Server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;direction=west;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="295" width="118.14" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="VBBiEQMWZrXmdsKQ7NY6-6" value="Server Made with Node JS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="353.9" y="380" width="70" height="50" as="geometry" />
+        <mxCell id="VBBiEQMWZrXmdsKQ7NY6-6" value="Server broadcast the recieved message to all clients" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="303.9" y="255" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6o3PL8QkLf9-1JZWyNTG-1" value="" style="points=[[0.35,0,0],[0.98,0.51,0],[1,0.71,0],[0.67,1,0],[0,0.795,0],[0,0.65,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.user;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="590" y="305" width="60" height="60" as="geometry" />
@@ -390,6 +390,9 @@
         </mxCell>
         <mxCell id="6o3PL8QkLf9-1JZWyNTG-12" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_server.svg;" vertex="1" parent="1">
           <mxGeometry x="370.7" y="310" width="36.4" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="6o3PL8QkLf9-1JZWyNTG-13" value="Server Made with Node JS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="344" y="395" width="70" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

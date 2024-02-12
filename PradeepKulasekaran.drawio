@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-12T15:30:03.166Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="W1s8tn0lF8JUD5Qj0nMv" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-12T15:32:53.991Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="VTOGY-5mKE6MnawHl3i5" version="23.1.2" type="github">
   <diagram name="Page-1" id="fbcf5db9-b524-4cd4-e4f3-379dc89c3999">
-    <mxGraphModel dx="2156" dy="1085" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2830" dy="1424" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -71,12 +71,12 @@
           <mxGeometry x="240" y="1451.75" width="160" height="77" as="geometry" />
         </mxCell>
         <mxCell id="DmvFaoOwpOjY85dgybYr-22" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="1410" width="440" height="190" as="geometry">
+          <mxGeometry x="490" y="1400" width="440" height="210" as="geometry">
             <mxRectangle x="700" y="510" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DmvFaoOwpOjY85dgybYr-23" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Beyond Platform&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Solved multi app requirement for clients by&amp;nbsp;&lt;br&gt;implementing Platform based on&amp;nbsp;Cloud&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Multiplayer Cross platform application&amp;nbsp;&lt;br&gt;integrating PC, Mobile and VR platforms&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Simulation and Visualization using Unreal&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Communication with Stake Holders&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#DAE8FC;" vertex="1" parent="DmvFaoOwpOjY85dgybYr-22">
-          <mxGeometry width="440" height="190" as="geometry" />
+        <mxCell id="DmvFaoOwpOjY85dgybYr-23" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Magic Leap, Oculus devices&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Beyond Platform&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Solved multi app requirement for clients by&amp;nbsp;&lt;br&gt;implementing Platform based on&amp;nbsp;Cloud&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Multiplayer Cross platform application&amp;nbsp;&lt;br&gt;integrating PC, Mobile and VR platforms&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Simulation and Visualization using Unreal&lt;br&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Communication with Stake Holders&lt;/b&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#DAE8FC;" vertex="1" parent="DmvFaoOwpOjY85dgybYr-22">
+          <mxGeometry width="440" height="210" as="geometry" />
         </mxCell>
         <mxCell id="DmvFaoOwpOjY85dgybYr-24" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#DAE8FC;fontSize=13;fontColor=#FFFFFF;align=center;gradientColor=none;gradientDirection=east;verticalAlign=top;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="1763.75" width="220" height="85" as="geometry" />
